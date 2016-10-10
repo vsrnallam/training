@@ -1,1 +1,2 @@
 # training
+# first week class
